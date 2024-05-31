@@ -1,0 +1,97 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #111;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: #0ff;
+    font-size: 2.5em;
+    text-shadow: 0 0 10px #00f;
+}
+
+nav {
+    background-color: #222;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #00f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color: #0ff;
+    text-align: center;
+}
+
+.producto {
+    background-color: #111;
+    border: 1px solid #333;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.producto img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.producto h3 {
+    color: #0ff;
+}
+
+.article {
+    background-color: #111;
+    border: 1px solid #333;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.whatsapp {
+    background-color: #25D366;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #111;
+    padding: 10px;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
